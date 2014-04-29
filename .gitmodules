@@ -1,0 +1,42 @@
+[submodule "arsortgrid"]
+	path = arsortgrid
+	url = https://github.com/naadsm/arsortgrid
+[submodule "arsyncgrid"]
+	path = arsyncgrid
+	url = https://github.com/naadsm/arsyncgrid
+[submodule "cxreedit"]
+	path = cxreedit
+	url = https://github.com/naadsm/cxreedit
+[submodule "delphi_general_purpose"]
+	path = delphi_general_purpose
+	url = https://github.com/naadsm/delphi_general_purpose
+[submodule "general_purpose_gui"]
+	path = general_purpose_gui
+	url = https://github.com/naadsm/general_purpose_gui
+[submodule "libaphi_delphi"]
+	path = libaphi_delphi
+	url = https://github.com/naadsm/libaphi_delphi
+[submodule "libaphi_delphi_gui"]
+	path = libaphi_delphi_gui
+	url = https://github.com/naadsm/libaphi_delphi_gui
+[submodule "pbpagecontrol"]
+	path = pbpagecontrol
+	url = https://github.com/naadsm/pbpagecontrol
+[submodule "proj4_delphi"]
+	path = proj4_delphi
+	url = https://github.com/naadsm/proj4_delphi
+[submodule "qclasses"]
+	path = qclasses
+	url = https://github.com/naadsm/qclasses
+[submodule "remoteDB"]
+	path = remoteDB
+	url = https://github.com/naadsm/remoteDB
+[submodule "sdew"]
+	path = sdew
+	url = https://github.com/naadsm/sdew
+[submodule "updatedVCL"]
+	path = updatedVCL
+	url = https://github.com/naadsm/updatedVCL
+[submodule "zipmaster"]
+	path = zipmaster
+	url = https://github.com/naadsm/zipmaster
