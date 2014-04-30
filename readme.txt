@@ -1,0 +1,3 @@
+This repository contains a collection of submodules used for NAADSM and related applications.  All of these are written in Delphi, although several make use of DLLs written in C/C++.  Although this collection was assembled to support epidemiologic model building, many pieces of code have broader application.  For details, see the readme files associated with individual submodules.
+
+For more information, please contact Aaron Reeves at development@reevesdigital.com.
